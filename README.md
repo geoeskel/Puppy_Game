@@ -9,3 +9,9 @@ v1.0:
 5. Health and Energy System
 6. Interactive Environment
 
+
+v1.1: 
+1. Amended encounters
+2. Added engaging descriptions
+3. Added items and inventory (basic)
+4. Each encounter is now a separate screen 
